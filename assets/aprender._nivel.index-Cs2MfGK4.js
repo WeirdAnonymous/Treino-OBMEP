@@ -1,0 +1,1 @@
+import{t as e}from"./jsx-runtime-Cltr0gcK.js";import{n as t,t as n}from"./AppShell-EuUOk4PD.js";var r=e(),i=()=>(0,r.jsx)(n,{children:(0,r.jsx)(t,{className:`py-20 text-center`,children:`Nível não encontrado.`})});export{i as notFoundComponent};

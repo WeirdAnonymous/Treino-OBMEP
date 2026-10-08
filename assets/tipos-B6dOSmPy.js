@@ -1,0 +1,1 @@
+var e={1:`Nível 1 — 6º e 7º ano`,2:`Nível 2 — 8º e 9º ano`,3:`Nível 3 — Ensino Médio`},t={facil:`Fácil`,medio:`Médio`,dificil:`Difícil`},n=[`A`,`B`,`C`,`D`,`E`];export{e as n,t as r,n as t};
